@@ -1,0 +1,8 @@
+{
+  "name": "autopayer-license-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node test.mjs" },
+  "dependencies": { "@netlify/blobs": "^8.1.0" }
+}
